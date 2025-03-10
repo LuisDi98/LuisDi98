@@ -3,16 +3,17 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=700&color=FF4500&center=true&width=650&lines=Fullstack+AI+Engineer+🚀;Machine+Learning+Innovator+🤖;Open-Source+Contributor+💡" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=700&color=FF4500&center=true&width=650&lines=Fullstack+AI+Engineer+🚀;Machine+Learning+Innovator+🤖;Blockchain+Developer+🔗;Open-Source+Contributor+💡" alt="Dynamic Typing Animation" />
 </h2>
 
 ## 🌟 About Me
 
-Hey there! I'm **Luis Diego**, a **Fullstack AI Engineer** passionate about building intelligent and scalable solutions. I thrive in the intersection of **Machine Learning**, **Web Development**, and **Cloud Technologies**.
+Hey there! I'm **Luis Diego**, a **Fullstack AI & Blockchain Engineer** passionate about building intelligent, decentralized, and scalable solutions. I thrive in the intersection of **Machine Learning**, **Web3**, **Cloud Technologies**, and **Fullstack Development**.
 
 - 🧠 Exploring **AI-driven applications** and **MLOps**.
-- 🏗️ Developing **Fullstack Web & AI solutions** with **React**, **Next.js**, **Rust**, and **Python**.
-- 🚀 Contributing to **Open Source** and **AI research**.
+- 🔗 Developing **Blockchain solutions** with **Solidity**, **Rust**, and **Ethereum L2**.
+- 🏗️ Building **Fullstack Web & AI** with **React**, **Next.js**, **Rust**, and **Python**.
+- 🚀 Contributing to **Open Source**, **AI research**, and **Decentralized Technologies**.
 
 ## 🔧 Tech Stack
 
@@ -21,6 +22,7 @@ Hey there! I'm **Luis Diego**, a **Fullstack AI Engineer** passionate about buil
 - **Frontend:** React, Next.js, Tailwind, GraphQL
 - **Backend & Cloud:** Node.js, FastAPI, Docker, Kubernetes, AWS
 - **Databases:** PostgreSQL, MongoDB, Redis, Neo4j
+- **Blockchain & Web3:** Solidity, Hardhat, Foundry, Web3.js, Ethers.js, Smart Contracts, NFTs, IPFS
 
 ## 🚀 Featured Projects
 
@@ -33,8 +35,9 @@ Blockchain-powered **carbon tracking & ESG reporting** with AI & satellite monit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisDi98&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDi98&layout=compact&hide_border=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDi98&theme=radical&hide_border=true" />
+  
+  
 </p>
 
 ## 🌐 Connect With Me
@@ -44,3 +47,4 @@ Blockchain-powered **carbon tracking & ESG reporting** with AI & satellite monit
 - **Website:** [YourWebsite](https://yourwebsite.com)
 
 > *"The best way to predict the future is to create it."* – **Abraham Lincoln**
+
